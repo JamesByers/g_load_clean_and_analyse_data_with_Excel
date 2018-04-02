@@ -3,7 +3,8 @@
 #### Block 2 Lesson 2
 
 60 min
-
+<br>
+<br>
 ### By the end of this lesson you will be able to:
 * Clean raw data to resolve issues such as fixing numbers dates and text
 * Remove extraneous characters

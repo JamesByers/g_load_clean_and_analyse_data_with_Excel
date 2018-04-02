@@ -3,7 +3,8 @@
 #### Block 2 Lesson 1
 
 75 min
-
+<br>
+<br>
 ### By the end of this lesson you will be able to:
 * Describe several types of data transfer files
 * Load data text files including CSV, TSV and files with other delimiters

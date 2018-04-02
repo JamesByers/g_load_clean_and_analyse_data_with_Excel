@@ -1,5 +1,6 @@
 ## Galvanize Data Analytics
-# B2 L2.2 Clean the data
+# B2 Clean the data
+#### Block 2 Lesson 2
 
 60 min
 

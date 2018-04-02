@@ -11,8 +11,8 @@
 
 ### Lessons
 
-* [L2.1](/Load_date_into_Excel/L2_1-Load_data_from_text_files) <br>
-
+* [L2.1 Load data from text files](/Load_date_into_Excel/L2.1-Load_data_from_text_files) <br>
+* [L2.2 Clean the data](/Load_data_into_Excel/L2.2-Clean_the_data.md) <br>
 
 ### Additional Resources
 

@@ -14,7 +14,7 @@
 
 * [L2.1 Load data from text files](L2.1-Load_data_from_text_files.md) <br>
 * [L2.2 Clean the data](L2.2-Clean_the_data.md) <br>
-* [L2.3 Remove other data issues](L2.3-Remove_other_data_issues) <br>
+* [L2.3 Remove other data issues](L2.3-Remove_other_data_issues.md) <br>
 
 ### Additional Resources
 

@@ -1,5 +1,5 @@
 ## Galvanize Data Analytics
-# L2.1 Load data from text files
+# B2 L1 Load data from text files
 
 75 min
 

@@ -11,7 +11,7 @@
 
 ### Lessons
 
-* [Introducing the SQL programming language](/the_sql_data_query_language.md) <br>
+* [L2.1](/L-2_1) <br>
 
 
 ### Additional Resources

@@ -5,7 +5,7 @@
 
 * Load various types of data files into Excel
 * Clean data with Excel
-* Analye the data with Excel 
+* Analyze the data with Excel 
 
 ### Scope 
 

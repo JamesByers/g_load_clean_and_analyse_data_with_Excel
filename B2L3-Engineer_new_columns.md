@@ -1,5 +1,5 @@
 ## Galvanize Data Analytics
-# L2.3 Engineer new columns
+# B2 L2.3 Engineer new columns
 
 120 min
 

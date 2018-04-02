@@ -1,4 +1,3 @@
-# Analyze data with Pivot tables
 ## Galvanize Data Analytics
 # Analyze data with Pivot tables
 #### Block 2 Lesson 7

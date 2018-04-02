@@ -1,5 +1,6 @@
 ## Galvanize Data Analytics
-# B2 L2.3 Engineer new columns
+# Engineer new columns
+### Block 2 Lesson 3
 
 120 min
 <br>

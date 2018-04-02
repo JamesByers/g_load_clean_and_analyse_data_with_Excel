@@ -6,7 +6,7 @@
 <br>
 <br>
 ### By the end of this lesson you will be able to:
-* Clean raw data to resolve issues such as fixing numbers dates and text
+* Clean raw data to fix numbers, dates and text
 * Remove extraneous characters
 
 

@@ -12,7 +12,7 @@
 
 ### Lessons
 |     |         |
-|:----|:-------|:-------|
+|----|-------|-------|
 |B2 L1 | [Load data from text files](B2_L1-Load_data_from_text_files.md) |75 min|
 |B2 L2 | [Clean the data](B2_L2-Clean_the_data.md)|60 min|
 |B2 L3 | [Engineer new columns](B2_L3-Engineer_new_columns.md)|120 min|

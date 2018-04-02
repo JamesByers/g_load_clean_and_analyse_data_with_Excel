@@ -1,6 +1,6 @@
 ## Galvanize Data Analytics
 # Load data from text files
-#### Block 2 Lesson 4
+#### Block 2 Lesson 1
 
 75 min
 

@@ -2,7 +2,8 @@
 # B2 L2.3 Engineer new columns
 
 120 min
-
+<br>
+<br>
 ### By the end of this lesson you will be able to:
 * Engineer new columns from existing columns
 * Extract substrings from strings

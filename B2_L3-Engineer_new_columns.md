@@ -1,6 +1,6 @@
 ## Galvanize Data Analytics
 # Engineer new columns
-### Block 2 Lesson 3
+#### Block 2 Lesson 3
 
 120 min
 <br>

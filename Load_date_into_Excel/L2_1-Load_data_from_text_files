@@ -1,5 +1,6 @@
 #L2_1 Load data from text files
-Galvanize Data Analytics
+## Galvanize Data Analytics
 
-
-
+By the end of this lesson you will be able to:
+# load data text files including CSV, TSV and files with other delimiters
+# Set data types on intake

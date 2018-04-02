@@ -11,7 +11,7 @@
 
 ### Lessons
 
-* [L2.1](/L-2_1) <br>
+* [L2.1](/Load_date_into_Excel/L2_1-Load_data_from_text_files) <br>
 
 
 ### Additional Resources

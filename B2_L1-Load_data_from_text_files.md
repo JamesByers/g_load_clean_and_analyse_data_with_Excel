@@ -20,18 +20,20 @@ In this block we will be using data that is provided in a variety of text file f
 
 ## Import 
 * Discuss three types of text file formats for storing data (15 min)
- * Rows and column text files such as CSV and delimited files
- * JSON
- * XML
+  * Rows and column text files such as CSV and delimited files
+  * JSON
+  * XML
 * Code along - Import a CSV file
- * In a file manager clicking on a .csv file to open it in Excel
-  * Successful import
- * Import a less well behaved CSV file by clicking on it 
-  * Note defects
-   * Moral is you cannot depend on the click import
+  * In a file manager clicking on a .csv file to open it in Excel
+    * Successful import
+  * Import a less well behaved CSV file by clicking on it 
+    * Note defects
+    * Moral is you cannot depend on the click import
   * Import using Data > From Text
 * Exercise
- * Students import a new file using Data > From Text
-* Difference between 
+  * Students import a new file using Data > From Text
+* Difference between CSV and delimited files
+
+
  
  

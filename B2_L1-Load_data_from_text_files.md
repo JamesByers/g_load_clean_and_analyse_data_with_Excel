@@ -18,22 +18,51 @@ In this block we will be using data that is provided in a variety of text file f
   * Make sure you are installing an laptop version and not an Office 356 version (cloud only)
   * Home and Student version of Microsoft Office is sufficent
 
-## Import 
-* Discuss three types of text file formats for storing data (15 min)
+## Import data from text files
+
+* Discuss three types of text file formats for storing data - **15 min**
   * Rows and column text files such as CSV and delimited files
   * JSON
   * XML
-* Code along - Import a CSV file
+
+* Code along - Import a delimited file - **20 min**
   * In a file manager clicking on a .csv file to open it in Excel
     * Successful import
   * Import a less well behaved CSV file by clicking on it 
     * Note defects
     * Moral is you cannot depend on the click import
   * Import using Data > From Text
-* Exercise
-  * Students import a new file using Data > From Text
-* Difference between CSV and delimited files
 
+* Exercise **15 min**
+  * Students import a new file using Data > From Text
+    * In pairs
+    * Import file with:
+      * Both enclosing characters and non-comma delimiter
+      * Integers that may want to import as text
+     * Duplicate (copy) the "raw data tab" to a new tab
+
+* Difference between CSV and delimited files - demo - **15 min**
+
+* Exercise **15 min**
+  * Students import a new file using Data > From Text
+    * On own for first 7 minutes then in teams of 3
+    * Import file with:
+      * Both enclosing characters and non-comma delimiter
+      * Integers that may want to import as text
+    * Duplicate (copy) the "raw data tab" to a new tab
+    * Bonus: set a range name for the raw data
+      
+* Quick look at submitting SQL queries directly from Excel **15 min**
+  * Demo functionality
+  * Discuss pitfalls (Excel's propensity to format fields)
+  * Tour additional resources
+
+* Exercise - **40 min**
+Format: work alone for 7 minutes and then in groups of three for 8 minutes for each of the three tasks below
+  * Create and submit a query that returns an aggregate table
+  * Export the file as a CSV file using delimiters and enclosing characters appropriate to the contents of the fields
+     * Note: Aggregate table will contain fields with commas and other issues that will require a delimiter different from comma
+  * Import the data into Excel, creating a raw_data tab and and a data tab
 
  
  

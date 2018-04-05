@@ -15,6 +15,9 @@
 ### Clean the data to improve the analysis
 
 #### Code along - Fix numbers, dates and text - **15 min**
+* Remove duplicate rows
+* Converge to one date format
+* Convert numners to integers, floats and text
 
 #### Exercise - Correct data issues in several columns - **15 min**
 

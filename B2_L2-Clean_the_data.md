@@ -5,9 +5,23 @@
 60 min
 <br>
 <br>
-### By the end of this lesson you will be able to:
-* Clean raw data to fix numbers, dates and text
-* Remove extraneous characters
+### Learning Objectives
+
+*By the end of this lesson you will be able to:*
+* Communicate why we clean the data
+* List 5 techniques we can use to fix numbers, dates and text 
+* Apply Excel functions to remove extraneous characters
+
+### Clean the data to improve the analysis
+
+#### Code along - Fix numbers, dates and text - **15 min**
+
+#### Exercise - Correct data issues in several columns - **15 min**
+
+#### Code along - Remove extraneous characters - **10 min**
+
+#### Exercise - Import data and correct errors  - **20 min**
+
 
 
 ### Resources

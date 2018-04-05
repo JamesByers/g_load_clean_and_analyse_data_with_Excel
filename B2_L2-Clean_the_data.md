@@ -19,6 +19,7 @@
 #### Exercise - Correct data issues in several columns - **15 min**
 
 #### Code along - Remove extraneous characters - **10 min**
+[EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 
 #### Exercise - Import data and correct errors  - **20 min**
 

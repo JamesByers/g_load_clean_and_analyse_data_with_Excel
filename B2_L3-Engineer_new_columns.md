@@ -12,21 +12,30 @@
 * Create date parts such as quarter, month and week
 
 Use substrings from strings in new columns - **60 min**                        
-* Code-along 20
+* Code-along - 15 min
   * LEFT, RIGHT
   * Extract by position/length
-* Exercise -  
-  * Extract before or after character
-  * Identify if text contains a substring
+
+* Exercise -  15 min 
  
-* Create date part columns
-  * Code-along
-    * Create month and year columns
-    * Create quarter column
-  * Exercise - Pronto bike share data
-    * Create month column
-    * Create year column
-    * Create hour column 
+* Code-along - 15 min
+    * Extract before or after character
+    * Identify if text contains a substring
+
+* Exercise - 15 min
+
+Create date part columns **30 min**
+* Code-along
+  * Create month and year columns
+  * Create quarter column
+* Exercise - Pronto bike share data
+  * Create year column
+  * Create month column
+  * Create quarter
+  * Create hour column 
+    
+Exercise -  **30 min**
+Work in pairs
 
 
 

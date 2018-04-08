@@ -16,29 +16,37 @@ Data can be expected to have a variety of issues that we will want to correct.  
 
 ### Clean the data to improve the analysis
 
+#### Code along - Remove extraneous characters - **10 min**
+Students complete the same actions while the instructor is demoing
+* TRIM
+* CLEAN
+* REPLACE
+
+[EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
+
+#### Exercise - Remove extraneous characters - **15 min**
+* Students work individually and then in groups of three
+* Remove leading and trailing blanks
+* Remove non-printable characters
+
+[EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
+ 
+
 #### Code along - Fix numbers, dates and text - **15 min**
 * Remove duplicate rows
 * Change datetime feilds to one date format
-* Convert numners to integers, floats and text
+* Convert text numbers to integers, floats and text
 
-#### Exercise - Correct data issues in several columns - **15 min**
+#### Exercise - Correct data issues in several columns - **25 min**
 * Students import a new file using Data > From Text
-  * In pairs
-  * Import file with:
+  * Individually, then in groups of three
+  * Import file an then :
+    * 
     * Remove duplicate rows
     * Change datetime feilds to one date format
-    * Convert numners to integers, floats and tex
- 
- #### Code along - Remove extraneous characters - **10 min**
-
-
-[EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
-
-
-#### Exercise - Import data and correct errors  - **20 min**
-
-[EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
-
+    * Convert text numbers to integers, floats and text
+    * Fix names so they have capitalized first letter of name and lower remainder
+      *To figure out how to do this students will likely need to use search and Excel documentation
 
 ### Resources
 [Ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)

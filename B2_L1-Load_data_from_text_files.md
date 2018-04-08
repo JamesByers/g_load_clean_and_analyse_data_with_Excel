@@ -9,7 +9,7 @@ In our work with SQL we have learned how to extract the data we need from databa
 ### Lesson objectives
 
 *By the end of this lesson, you will be able to:*
-* Describe several types of data transfer files
+* Describe the difference between CSV, delimited, JSON and XML data transfer files
 * Load data text files including CSV, TSV and files with other delimiters
 * Set data types on intake
 

@@ -4,7 +4,7 @@
 75 min
 <br>
 <br>
-In this block we will be using data that is provided in a variety of text file formats.  In this unit we will learn how to import the data from these file types into Excel.
+In our work with SQL we have learned how to extract the data we need from databases and save it into text data files.  We saved the files in the same text file format since there was value in consistency.  But there are several formats and we will want to be able to import those as well/   In this lesson we will learn how to import data from a variety of file types into Excel.
 
 ### Lesson objectives
 

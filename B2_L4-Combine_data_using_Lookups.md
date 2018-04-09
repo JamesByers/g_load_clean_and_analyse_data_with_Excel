@@ -31,11 +31,12 @@ Students complete the actions concurrently with the instructor
     * There is definitely an advantage to using range names.  We will change our VLOOKUP reference table_array value to a range name.
 <br>
 
-#### Exercise: Use VLOOKUPs to fetch data from other tables - 15 min
+#### Exercise 1: Use VLOOKUPs to fetch data from other tables - 15 min
 * Work in pairs
 * Fetch data from other worksheets using VLOOKUPs
   * Match strings
   * Match numerical values
+* *This is a high five opportunity!:*  Congratulations on your first use of Lookups!!
 <br>
 
 ### Combine data from different sources using HLOOKUP - 10 min  
@@ -50,7 +51,7 @@ Students complete the actions concurrently with the instructor
   * Danger! You have to use absolute references else the table_range moves when you copy the VLOOKUP formula tp another cell
     * There is definitely an advantage to using range names.  We will change our VLOOKUP reference table_array value to a range name.
     
-#### Exercise: Use Lookups to fetch data from other tables - 25 min
+#### Exercise 2: Use Lookups to fetch data from other tables - 25 min
 * Students work independently and then in teams of three
 * Fetch data from other worksheets using lookups
   * Match numerical values

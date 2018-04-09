@@ -16,7 +16,7 @@ Data can be expected to have a variety of issues that we will want to correct.  
 
 
 ### Clean the data to improve the analysis
-Code along - Remove extraneous characters - **10 min**
+#### Code along - Remove extraneous characters - **10 min**
 Students complete the same actions concurrently with the instructoractions while the instructor
 * TRIM
 * CLEAN
@@ -36,7 +36,7 @@ Students complete the same actions concurrently with the instructoractions while
 * Change datetime feilds to one date format
 * Convert text numbers to integers, floats and text
 
-#### Exercise - Correct data issues in several columns - **25 min**
+**Exercise - Correct data issues in several columns - 25 min**
 * Students import a new file using Data > From Text
   * Individually, then in groups of three
   * Import file an then :

@@ -4,7 +4,7 @@
 ### By the end of this block, you will be able:
 
 * Load various types of data files into Excel
-* Clean data with Excel
+* Clean and prepare data with Excel
 * Analyze the data with Excel 
 
 ### Scope 

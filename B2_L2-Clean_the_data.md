@@ -23,7 +23,6 @@ Students complete the same actions concurrently with the instructoractions while
     [EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 <br>
 <br>
-
 **Exercise - Remove extraneous characters** - **15 min**
 * Students work individually and then in groups of three
 * Remove leading and trailing blanks
@@ -37,7 +36,7 @@ Students complete the same actions concurrently with the instructoractions while
 * Convert text numbers to integers, floats and text
 <br>
 <br>
-**Exercise - Correct data issues in several columns - 25 min**
+**Exercise - Correct data issues in several columns** - **25 min**
 * Students import a new file using Data > From Text
   * Individually, then in groups of three
   * Import file an then :

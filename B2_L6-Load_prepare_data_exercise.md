@@ -4,7 +4,12 @@
 
 90 min
 <br><br>
-### By the end of this exercise you will:
+In this exercise we will pull data with SQL and then combine data into a new worksheet
+<br>
 
-*
-Load and prepare data exercise
+### By the end of this exercise you will:
+* Obtain data from a database and save as a CSV file
+* Import the raw data into Excel and clean
+* Prepare data by linking to other data files to create a new consolidated spreadsheet
+
+####  Pull and prepare data

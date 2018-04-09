@@ -43,6 +43,8 @@ Work in pairs
   
 #### Code-along: Improve user value of Pivot tables in Excel - 25 min
 Students complete the actions concurrently with the instructor
+* Demonstrate that Pivot tables do not auto update
+  * Demonstrate triggering an update
 * Format Pivot tables for easier interpretation
  * Sort of columns in pivot tables (primary and secondary sorts)
  * Set filters to dimensions in a pivot table

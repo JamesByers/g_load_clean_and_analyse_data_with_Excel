@@ -1,5 +1,5 @@
 ## Galvanize Data Analytics course
-# Block 2 - Load, clean and analyse data with Excel
+# Block 2 - Load, clean, prepare and analyse data with Excel
 
 ### By the end of this block, you will be able:
 

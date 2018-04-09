@@ -22,7 +22,7 @@ Students complete the same actions concurrently with the instructoractions while
 * CLEAN
     [EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 <br>
-<br>
+
 **Exercise - Remove extraneous characters** - **15 min**
 * Students work individually and then in groups of three
 * Remove leading and trailing blanks
@@ -30,12 +30,13 @@ Students complete the same actions concurrently with the instructoractions while
     [EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 <br>
 <br>
+
 #### Code along - Fix numbers, dates and text - **15 min**
 * Remove duplicate rows
 * Change datetime feilds to one date format
 * Convert text numbers to integers, floats and text
 <br>
-<br>
+
 **Exercise - Correct data issues in several columns** - **25 min**
 * Students import a new file using Data > From Text
   * Individually, then in groups of three
@@ -48,6 +49,7 @@ Students complete the same actions concurrently with the instructoractions while
       * To figure out how to do this students will likely need to use search and Excel documentation
 <br>
 <br>
+
 ### Resources
 [Ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 

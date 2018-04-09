@@ -48,12 +48,13 @@ Students complete the actions concurrently with the instructor
     
 **Exercise: Pronto bike share data** - **40 min**
 * Work in pairs
+  * Load csv file with "|" {pipe) delimiter, separator of "", and blank lines before the data 
   * Create columns derived from existing columns 
-   * Create year column
-   * Create month column
-   * Create quarter
-   * Create hour column
-    * Requires students to search to find solutions in documentation or other resources on the web
+    * Create year column
+    * Create month column
+    * Create quarter
+    * Create hour column
+      * Requires students to search to find solutions in documentation or other resources on the web
   * Create new category columns from values of existing text columns
     * Extract portion of text between two characters
 <br>

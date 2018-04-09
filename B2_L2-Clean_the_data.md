@@ -14,17 +14,16 @@ Data can be expected to have a variety of issues that we will want to correct.  
 * List 5 techniques we can use to fix numbers, dates and text 
 * Apply Excel functions to remove extraneous characters
 
-### Clean the data to improve the analysis
 
-#### Code along - Remove extraneous characters - **10 min**
-Students complete the same actions while the instructor is demoing
+### Clean the data to improve the analysis
+Code along - Remove extraneous characters - **10 min**
+Students complete the same actions concurrently with the instructoractions while the instructor
 * TRIM
 * CLEAN
-* REPLACE
 
 [EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 
-#### Exercise - Remove extraneous characters - **15 min**
+**Exercise - Remove extraneous characters - 15 min**
 * Students work individually and then in groups of three
 * Remove leading and trailing blanks
 * Remove non-printable characters
@@ -46,7 +45,7 @@ Students complete the same actions while the instructor is demoing
     * Change datetime feilds to one date format
     * Convert text numbers to integers, floats and text
     * Fix names so they have capitalized first letter of name and lower remainder
-      *To figure out how to do this students will likely need to use search and Excel documentation
+      * To figure out how to do this students will likely need to use search and Excel documentation
 
 ### Resources
 [Ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)

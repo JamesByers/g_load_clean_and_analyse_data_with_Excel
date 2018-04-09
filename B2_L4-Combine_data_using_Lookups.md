@@ -11,7 +11,6 @@ We are going to continue to prepare data by fetching and combining data from sev
 * Use VLOOKUP and HLOOKUP to fetch data from another table
 * Apply parameters to alter the lookup
 <br>
-<br>
  
 ### Combine data from different sources using VLOOKUP - 40 min
 #### Overview of VLOOKUP function - 10 min
@@ -54,5 +53,8 @@ Students complete the actions concurrently with the instructor
 ### Exercise: Use Lookups to fetch data from other tables - 25 min
 * Students work independently and then in teams of three
 * Fetch data from other worksheets using lookups
-  * Mix of cases 
   * Match numerical values
+  * Match string values
+  * Handle case where external column is string but fetching column is number
+  
+### Additional Resources

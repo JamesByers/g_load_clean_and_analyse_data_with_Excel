@@ -17,8 +17,8 @@ We have cleaned the raw data and created our initial dataset, we can expand the 
 
 ### Extract substrings from existing columns to create new columns - **60 min**                        
 #### Code-along - 15 min
-  * LEFT, RIGHT
-  * Extract by position/length
+  * Extract leading and trailing substrings using LEFT, RIGHT
+  * Exract substrings by position/length
 <br>
 
 #### Exercise -  15 min 
@@ -44,19 +44,20 @@ We have cleaned the raw data and created our initial dataset, we can expand the 
 * Code-along
   * Create month and year columns
   * Create quarter column
-
-* Exercise - Pronto bike share data
-
+ <br>
     
 **Exercise: Pronto bike share data** - **40 min**
-* Work individually and then in pairs
+* Work in pairs
   * Create columns derived from existing columns 
    * Create year column
    * Create month column
    * Create quarter
    * Create hour column
-    * requires students to search to find solutions in documentation or other resources on the web
-  * Create new category columns from values of existing columns
+    * Requires students to search to find solutions in documentation or other resources on the web
+  * Create new category columns from values of existing text columns
+    * Extract portion of text between two characters
+  
+<br>
 
 ### Resources
 [Ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)

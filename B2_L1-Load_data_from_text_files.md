@@ -6,6 +6,8 @@
 <br>
 In our work with SQL we have learned how to extract the data we need from databases and save it into text data files.  We saved the files in the same text file format since there was value in consistency.  But there are several formats and we will want to be able to import those as well/   In this lesson we will learn how to import data from a variety of file types into Excel.
 
+> Think as a BI analyst:  Even though Excel is limited in the amount of data it can hold in a spreadsheet, it can be a very useful tool for analysing smaller data sets or providing aggregate information to users.  For example, Pivot tables provide a rapid way to share findings and provide interaction for users.  A good BI analyst will use Excel where it is appropriate even when more sophisticated tools are available.    
+
 ### Lesson objectives
 
 *By the end of this lesson, you will be able to:*
@@ -19,7 +21,6 @@ In our work with SQL we have learned how to extract the data we need from databa
   * Home and Student version of Microsoft Office is sufficent
 
 ## Import data from text files
-
 * Discuss three types of text file formats for storing data - **15 min**
   * Rows and column text files such as CSV and delimited files
   * JSON

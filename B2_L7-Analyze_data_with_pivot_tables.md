@@ -40,18 +40,20 @@ Work in pairs
   * Create Pivot table that sums on one dimension
   * Modify Pivot table to sum on two dimensions
 * *A high five opportunity:*  You have created your first pivot table in Excel!!
-  
+<br>
+
 #### Code-along: Improve user value of Pivot tables in Excel - 25 min
 Students complete the actions concurrently with the instructor
 * Demonstrate that Pivot tables do not auto update
   * Demonstrate triggering an update
 * Format Pivot tables for easier interpretation
  * Sort of columns in pivot tables (primary and secondary sorts)
+ * Add subtotals and grand totals
  * Set filters to dimensions in a pivot table
- * Add "pre-filters" to pivot tables
-  * Change column names in the pivot tables
+
 <br>
-#### Exercise: Create - 30 min
+
+#### Exercise 2: Create - 30 min
 * Work alone and then in pairs
 * Create and format pivot tables
   * Create pivot table that finds max and min
@@ -59,6 +61,8 @@ Students complete the actions concurrently with the instructor
   * Format the table, add more descriptive column headers
   * Sort rows
   * Sort columns
+  * Filter dimensions
+  * add subtotals and grand totals
 <br>  
   
 ### Additional Resources

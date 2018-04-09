@@ -5,7 +5,7 @@
 2.25 hours
 <br><br>
 <br><br>
-We are going to continue to prepare data by fetching and combining data from several spreadsheets into a worksheet
+One of our most important analysis techniques will be to determine aggregate values for each value in a category variable.  For example, we may want to determine total web impressions by country for a website.  Pivot tables are a quick and easy way to do that.  In this lesson we will create pivot tables that provides the aggregations we need.
 
 ### Learning Objectives
 *By the end of this lesson you will be able to:*

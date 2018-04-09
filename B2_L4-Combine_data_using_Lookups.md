@@ -26,7 +26,7 @@ Students complete the actions concurrently with the instructor
   * Load file
   * Create new worksheet
   * Add function to some columns to link to columns in another worksheet
-  * Create a new column Use VLOOKUP to fetch the data that matches the
+  * Create a new column Use VLOOKUP to fetch the data that matches the 
   * Danger! You have to use absolute references else the table_range moves when you copy the VLOOKUP formula to another cell
     * There is definitely an advantage to using range names.  We will change our VLOOKUP reference table_array value to a range name.
 <br>
@@ -46,7 +46,7 @@ Students complete the actions concurrently with the instructor
   * Load file
   * Create new worksheet
   * Add function to some columns to link to columns in another worksheet
-  * Create a new column Use VLOOKUP to fetch the data that matches the
+  * Create a new column Use VLOOKUP to fetch the data that matches matches values in a column
   * Danger! You have to use absolute references else the table_range moves when you copy the VLOOKUP formula tp another cell
     * There is definitely an advantage to using range names.  We will change our VLOOKUP reference table_array value to a range name.
     

@@ -35,7 +35,7 @@ Students complete the actions concurrently with the instructor
 <br>
 
 #### Exercise - 15 min
-* Work individually and then in pairs
+* Work individually and then in groups of three
 * Prepare new columns with substrings extracted from columns
   * LEFT, RIGHT
   * Extract by position/length

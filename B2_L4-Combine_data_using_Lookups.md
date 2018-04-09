@@ -50,7 +50,7 @@ Students complete the actions concurrently with the instructor
   * Danger! You have to use absolute references else the table_range moves when you copy the VLOOKUP formula tp another cell
     * There is definitely an advantage to using range names.  We will change our VLOOKUP reference table_array value to a range name.
     
-### Exercise: Use Lookups to fetch data from other tables - 25 min
+#### Exercise: Use Lookups to fetch data from other tables - 25 min
 * Students work independently and then in teams of three
 * Fetch data from other worksheets using lookups
   * Match numerical values

@@ -23,7 +23,7 @@ Students complete the same actions concurrently with the instructoractions while
     [EXAMPLE_DataToClean dataset](https://docs.google.com/spreadsheets/d/1CDWBeqpUTBd1TkmDz_M6UGRWdHgU7LOcoiGRTvIttKA/edit#gid=0)
 <br>
 <br>
-**Exercise - Remove extraneous characters - 15 min**
+**Exercise - Remove extraneous characters** - **15 min**
 * Students work individually and then in groups of three
 * Remove leading and trailing blanks
 * Remove non-printable characters

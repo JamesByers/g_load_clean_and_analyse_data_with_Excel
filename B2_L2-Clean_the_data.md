@@ -41,7 +41,7 @@ Students complete the same actions while the instructor is demoing
 * Students import a new file using Data > From Text
   * Individually, then in groups of three
   * Import file an then :
-    * 
+    * Remove extraneous characters
     * Remove duplicate rows
     * Change datetime feilds to one date format
     * Convert text numbers to integers, floats and text

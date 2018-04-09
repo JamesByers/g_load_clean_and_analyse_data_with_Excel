@@ -8,7 +8,7 @@ In our work with SQL we have learned how to extract the data we need from databa
 <br>
 <br>
 
-> **Think as a BI analyst**:  Even though Excel is limited in the amount of data it can hold, it can be a very useful tool for analysing smaller data sets or providing aggregate information to users.  For example, Pivot tables provide a rapid way to share findings and provide interaction for users.  A good BI analyst will use Excel where it is appropriate even when more sophisticated tools are available.    
+> **Think like a BI analyst**:  Even though Excel is limited in the amount of data it can hold, it can be a very useful tool for analysing smaller data sets or providing aggregate information to users.  For example, Pivot tables provide a rapid way to share findings and provide interaction for users.  A good BI analyst will use Excel where it is appropriate even when more sophisticated tools are available.    
 <br>
 
 ### Lesson objectives

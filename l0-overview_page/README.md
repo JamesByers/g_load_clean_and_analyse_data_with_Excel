@@ -13,7 +13,7 @@
 ### Lessons
 |  |  | |
 |----|-------|-------:|
-|B2 L1 | [Load data from text files](B2_L1-Load_data_from_text_files.md)|1.25 hrs|
+|B2 L1 | [Load data from text files](l1-load_data_from_text_files/load_data_from_text_files.md)|1.25 hrs|
 |B2 L2 | [Clean the data](B2_L2-Clean_the_data.md)|1 hr|
 |B2 L3 | [Engineer new columns](B2_L3-Engineer_new_columns.md)|2 hrs|
 |B2 L4 | [Combine data using Lookups](B2_L4-Combine_data_using_Lookups.md)|1.25 hrs|
